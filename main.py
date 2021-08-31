@@ -1,8 +1,3 @@
-"""
-How to play
--Animaciones
-"""
-
 import sys
 import pygame
 import random
